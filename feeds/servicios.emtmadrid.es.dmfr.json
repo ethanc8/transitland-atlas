@@ -23,6 +23,16 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-ezjm-empresamunicipaldetransportes~rt",
+      "spec": "gtfs-rt",
+      "urls": {
+        "realtime_alerts": "https://openapi.emtmadrid.es/v1/bus/servicealerts/proto"
+      },
+      "license": {
+        "url": "https://datos.emtmadrid.es/en/dataset/tiempo-real-para-autobuses-de-emt/resource/190d5758-80f3-4af4-bd7f-c4d029b3b5e1"
+      }
     }
   ]
 }
